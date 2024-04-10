@@ -30,7 +30,7 @@ gcc -g -Wall -O3 -c RockPaperScissors.c
 
 gcc -g -Wall -O3 -c userMenu.c
 
-gcc -g -Wall -O3 -o Arcade.exe Hangman.o .\Xand0.o .\RockPaperScissors.o .\userMenu.c .\Menu.o
+gcc -g -Wall -O3 -o Arcade.exe Hangman.o .\Xand0.o .\RockPaperScissors.o .\userMenu.o .\Menu.o
 
 .\Arcade.exe
 
